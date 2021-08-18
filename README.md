@@ -1,5 +1,5 @@
 <h1>
-    Teorema de Pitagoras
+    Teorema de Pitágoras
 </h1>
 
 ## 🔖Sobre
@@ -24,7 +24,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/KaiqueMS2019/CEP-Now.git
+$ git clone https://github.com/KaiqueMS2019/Calculadora-Pitagoras.git
 
 # Entrar no diretório
 $  cd calculadora_pitagoras
